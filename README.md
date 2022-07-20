@@ -1,4 +1,4 @@
-# Stakable ERC-20 Smart Contract
+# Tradable ERC-20 Smart Contract
 
 This project was implemented to educational purposes. Use as you wish.
 
@@ -20,7 +20,7 @@ To test:
 npx hardhat test
 ```
 
-To test only stake functionality:
+To test only trading functionality:
 ```shell
-npx hardhat test --grep stake
+npx hardhat test --grep Trade
 ```
